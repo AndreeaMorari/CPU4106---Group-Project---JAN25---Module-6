@@ -1,5 +1,3 @@
-# CPU4106---Group-Project---JAN25---Module-6
-<!doctype html>
 <html lang="en">
   <head>
     <meta charset="UTF-8" />
